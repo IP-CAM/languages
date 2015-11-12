@@ -8,6 +8,6 @@ $_['text_approve_thanks']       = 'Спасибо,';
 $_['text_transaction_subject']  = '%s - Счет аккаунта';
 $_['text_transaction_received'] = 'Вы получили кредит на свой счет в магазине: %s';
 $_['text_transaction_total']    = 'Общая сумма на Вашем аккаунте: %s.' . "\n\n" . 'Эта сумма будет автоматически расходоваться при следующих покупках.';
-$_['text_reward_subject']       = '%s - Бонусные баллы';
+$_['text_reward_subject']       = '%s - Бонусні бали';
 $_['text_reward_received']      = 'Вы получили %s бонусных баллов!';
 $_['text_reward_total']         = 'Общее число бонусных баллов %s.';

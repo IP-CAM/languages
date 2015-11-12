@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title'] = 'Хиты продаж';
+$_['heading_title'] = 'Лідери продажів';
 
 // Text
-$_['text_tax']      = 'Без налога:';
+$_['text_tax']      = 'Без ПДВ:';

@@ -43,7 +43,7 @@ $_['entry_token']                    	= 'Маркер';
 $_['entry_string1']              		= 'Строка шифрования 1';
 $_['entry_string2']              		= 'Строка шифрования 2';
 $_['entry_import_tax']               	= 'Налог на импортируемые товары';
-$_['entry_customer_group']           	= 'Группа клиентов';
+$_['entry_customer_group']           	= 'Група клиентов';
 $_['entry_tax_percentage']           	= 'Изменить цену';
 $_['entry_default_condition']        	= 'Состояние продукта по умолчанию';
 $_['entry_marketplace_default']			= 'Рынок по умолчанию';
@@ -51,7 +51,7 @@ $_['entry_notify_admin']             	= 'Уведомлять администр
 $_['entry_default_shipping']         	= 'Доставка по умолчанию';
 
 // Tabs
-$_['tab_settings']            			= 'Детали API';
+$_['tab_settings']            			= 'Деталі API';
 $_['tab_listing']                  		= 'Списки';
 $_['tab_orders']                   		= 'Заказы';
 

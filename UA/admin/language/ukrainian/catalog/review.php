@@ -14,7 +14,7 @@ $_['column_author']         = 'Автор';
 $_['column_rating']         = 'Рейтинг';
 $_['column_status']         = 'Статус';
 $_['column_date_added']     = 'Добавлено';
-$_['column_action']         = 'Действие';
+$_['column_action']         = 'Дія';
 
 // Entry
 $_['entry_product']         = 'Товар:';
@@ -28,7 +28,7 @@ $_['entry_date_added']      = 'Дата добавления';
 $_['help_product']          = '(Autocomplete)';
 
 // Error
-$_['error_permission']      = 'У Вас нет прав для изменения отзывов!';
+$_['error_permission']      = 'У Вас немає прав для зміни отзывов!';
 $_['error_product']         = 'Требуется выбрать товар!';
 $_['error_author']          = 'Имя автора должно быть от 3 до 64 символов!';
 $_['error_text']          	= 'Текст отзыва должен содержать хотя бы 1 символ!';

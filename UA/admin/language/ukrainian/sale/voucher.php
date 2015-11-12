@@ -10,17 +10,17 @@ $_['text_edit']         = 'Редактирование сертификата';
 $_['text_sent']         = 'Подарочный сертификат успешно отправлен на указанный e-mail адрес!';
 
 // Column
-$_['column_name']       = 'Название сертификата';
+$_['column_name']       = 'Назва сертификата';
 $_['column_code']       = 'Код';
 $_['column_from']       = 'Отправитель';
 $_['column_to']         = 'Получатель';
 $_['column_theme']      = 'Тема';
-$_['column_amount']     = 'Сумма';
+$_['column_amount']     = 'Сума';
 $_['column_status']     = 'Статус';
 $_['column_order_id']   = 'Заказ №';
-$_['column_customer']   = 'Покупатель';
+$_['column_customer']   = 'Покупець';
 $_['column_date_added'] = 'Дата добавления';
-$_['column_action']     = 'Действие';
+$_['column_action']     = 'Дія';
 
 // Entry
 $_['entry_code']        = 'Код';
@@ -30,7 +30,7 @@ $_['entry_to_name']     = 'Имя получателя';
 $_['entry_to_email']    = 'E-Mail получателя';
 $_['entry_theme']       = 'Тема';
 $_['entry_message']     = 'Сообщение';
-$_['entry_amount']      = 'Сумма';
+$_['entry_amount']      = 'Сума';
 $_['entry_status']      = 'Статус';
 
 // Help

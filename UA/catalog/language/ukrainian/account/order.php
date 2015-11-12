@@ -1,37 +1,37 @@
 <?php
 // Heading 
-$_['heading_title']         = 'История заказов';
+$_['heading_title']         = 'Історія замовлень';
 
 // Text
-$_['text_account']          = 'Личный Кабинет';
-$_['text_order']            = 'Заказ';
-$_['text_order_detail']     = 'Детали заказа';
-$_['text_invoice_no']       = '№ Счета:';
-$_['text_order_id']         = '№ Заказа:';
-$_['text_date_added']       = 'Добавлено:';
-$_['text_shipping_address'] = 'Адрес доставки';
-$_['text_shipping_method']  = 'Способ доставки:';
-$_['text_payment_address']  = 'Платёжный адрес';
-$_['text_payment_method']   = 'Способ оплаты:';
-$_['text_comment']          = 'Комментарий к заказу';
-$_['text_history']          = 'История заказов';
-$_['text_success']          = 'Товар из заказа <a href="%s">%s</a> добавлен в <a href="%s">Вашу корзину</a>!';
-$_['text_empty']            = 'Вы еще не совершали покупок!';
-$_['text_error']            = 'Запрошенный заказ не найден!';
+$_['text_account']          = 'Обліковий запис';
+$_['text_order']            = 'Інформація про замовлення';
+$_['text_order_detail']     = 'Деталі замовлення';
+$_['text_invoice_no']       = 'Рахунок №:';
+$_['text_order_id']         = 'Номер замовлення:';
+$_['text_date_added']       = 'Дата створення:';
+$_['text_shipping_address'] = 'Адреса доставки';
+$_['text_shipping_method']  = 'Метод достави:';
+$_['text_payment_address']  = 'Адреса платника';
+$_['text_payment_method']   = 'Метод оплати:';
+$_['text_comment']          = 'Коментарі до замовлення';
+$_['text_history']          = 'Історія замовлень';
+$_['text_success']          = 'Ви успішно додали <a href="%s">%s</a> до Вашої <a href="%s">корзини</a>!';
+$_['text_empty']            = 'У Вас немає попередніх замовлень!';
+$_['text_error']            = 'Немає замовлнення, яке Ви шукаєте!';
 
 // Column
-$_['column_order_id']       = '№ Заказа';
-$_['column_product']        = 'Кол-во товара';
-$_['column_customer']       = 'Покупатель';
-$_['column_name']           = 'Наименование товара';
+$_['column_order_id']       = 'Номер замовлення';
+$_['column_product']        = 'Кількість товарів';
+$_['column_customer']       = 'Покупець';
+$_['column_name']           = 'Назва товару';
 $_['column_model']          = 'Модель';
-$_['column_quantity']       = 'Кол-во';
-$_['column_price']          = 'Цена';
-$_['column_total']          = 'Итого';
-$_['column_action']         = 'Действие';
-$_['column_date_added']     = 'Добавлено';
-$_['column_status']         = 'Статус заказа';
-$_['column_comment']        = 'Комментарий';
+$_['column_quantity']       = 'Кількість';
+$_['column_price']          = 'Ціна';
+$_['column_total']          = 'Разом';
+$_['column_action']         = 'Дія';
+$_['column_date_added']     = 'Дата створення';
+$_['column_status']         = 'Статус замовлення';
+$_['column_comment']        = 'Коментарі';
 
 // Error
-$_['error_reorder']         = '%s в данный момент недоступен для заказа.';
+$_['error_reorder']         = '%s зараз недоступний для замовлення.';

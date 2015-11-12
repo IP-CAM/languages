@@ -18,12 +18,12 @@ $_['entry_total']			= 'Итого';
 $_['entry_order_status']	= 'Статус заказа';
 $_['entry_geo_zone']		= 'Регион';
 $_['entry_status']			= 'Статус';
-$_['entry_sort_order']		= 'Порядок сортировки';
+$_['entry_sort_order']		= 'Порядок сортування';
 
 // Help
 $_['help_callback']			= 'Пожалуйста войдите в систему и установите это в <a href="https://secure.authorize.net" target="_blank" class="txtLink"> https://secure.authorize.net</a>.';
 $_['help_md5']				= 'Кодовая функция MD5 позволяет Вам убедиться в надёжности ответной транзакции, полученной от Authorize.Net. Пожалуйста войдите и установите это на <a href="https://secure.authorize.net" target="_blank" class="txtLink">https://secure.authorize.net</a>. (Необязательно)';
-$_['help_total']			= 'Сумма заказа должна быть выше, прежде чем этот метод оплаты станет активным.';
+$_['help_total']			= 'Сума заказа должна быть выше, прежде чем этот метод оплаты станет активным.';
 
 // Error
 $_['error_permission']		= 'Внимание: Вы не имеете разрешения на изменение платежей Authorize.Net (SIM)!';

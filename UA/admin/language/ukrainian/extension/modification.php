@@ -8,12 +8,12 @@ $_['text_refresh']          = 'Когда вы Включаете / Отключ
 $_['text_list']          	= 'Список установленных дополнений OCMOD';
 
 // Column
-$_['column_name']          	= 'Название';
+$_['column_name']          	= 'Назва';
 $_['column_author']         = 'Автор';
 $_['column_version']        = 'Версия';
 $_['column_status']         = 'Статус';
 $_['column_date_added']     = 'Дата';
-$_['column_action']         = 'Действие';
+$_['column_action']         = 'Дія';
 
 // Error
 $_['error_permission']      = 'У вас не достаточно прав!';

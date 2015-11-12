@@ -16,7 +16,7 @@ $_['column_date_added']    = 'Дата добавления';
 $_['column_date_modified'] = 'Дата редактирования';
 $_['column_token']         = 'Token';
 $_['column_ip']            = 'IP';
-$_['column_action']        = 'Действие';
+$_['column_action']        = 'Дія';
 
 // Entry
 $_['entry_username']       = 'Логин';

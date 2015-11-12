@@ -22,28 +22,28 @@ $_['text_account']          = 'Аккаунт';
 $_['text_address']          = 'Адрес';
 
 // Column
-$_['column_name']           = 'Название';
+$_['column_name']           = 'Назва';
 $_['column_location']       = 'Где показано';
 $_['column_type']           = 'Тип поля';
-$_['column_sort_order']     = 'Порядок сортировки';
-$_['column_action']         = 'Действие';
+$_['column_sort_order']     = 'Порядок сортування';
+$_['column_action']         = 'Дія';
 
 // Entry
-$_['entry_name']            = 'Название';
+$_['entry_name']            = 'Назва';
 $_['entry_location']        = 'Где показывать';
 $_['entry_type']            = 'Тип поля';
 $_['entry_value']           = 'Значение';
 $_['entry_custom_value']    = 'Значение для этого поля';
-$_['entry_customer_group']  = 'Группа покупателей';
+$_['entry_customer_group']  = 'Група покупателей';
 $_['entry_required']        = 'Обязательно';
 $_['entry_status']          = 'Статус';
-$_['entry_sort_order']      = 'Порядок сортировки';
+$_['entry_sort_order']      = 'Порядок сортування';
 
 // Help
 $_['help_sort_order']       = 'Используйте - (минус) что бы просто скрыть поле из вида.';
 
 // Error
 $_['error_permission']      = 'Внимание: у вас нет прав на изменение произвольных полей!';
-$_['error_name']            = 'Название поля должно быть от 1 до 128 символов!';
+$_['error_name']            = 'Назва поля должно быть от 1 до 128 символов!';
 $_['error_type']            = 'Необходимо указать Значение!';
 $_['error_custom_value']    = 'Значение должно быть от 1 до 128 символов!';

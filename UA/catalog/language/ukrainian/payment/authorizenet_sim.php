@@ -1,3 +1,3 @@
 <?php
 // Text
-$_['text_title'] = 'Кредитная / дебетовая карта (Authorize.Net)';
+$_['text_title'] = 'Кредитна карта / Дебетна карта (Authorize.Net)';

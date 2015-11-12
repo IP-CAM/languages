@@ -8,12 +8,12 @@ $_['text_guest']        = 'Гость';
 
 // Column
 $_['column_ip']         = 'IP';
-$_['column_customer']   = 'Покупатель';
+$_['column_customer']   = 'Покупець';
 $_['column_url']        = 'Последняя посещенная страница';
 $_['column_referer']    = 'Откуда пришёл';
 $_['column_date_added'] = 'Последний клик';
-$_['column_action']     = 'Действие';
+$_['column_action']     = 'Дія';
 
 // Entry
 $_['entry_ip']          = 'IP адрес:';
-$_['entry_customer']    = 'Покупатель:';
+$_['entry_customer']    = 'Покупець:';

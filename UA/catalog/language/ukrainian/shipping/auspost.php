@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_title']    = 'Почта Австралии';
-$_['text_express']  = 'Экспресс';
-$_['text_standard'] = 'Стандарт';
-$_['text_eta']      = 'суток';
+$_['text_title']    = 'Пошта Австралії';
+$_['text_express']  = 'Експрес';
+$_['text_standard'] = 'Стандартна';
+$_['text_eta']      = 'днів';

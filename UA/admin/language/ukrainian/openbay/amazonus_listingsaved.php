@@ -11,8 +11,8 @@ $_['text_delete_confirm']           = 'Вы уверены?';
 $_['text_complete']           		= 'Списки загружены';
 
 // Column
-$_['column_name']              		= 'Название';
+$_['column_name']              		= 'Назва';
 $_['column_model']             		= 'Модель';
 $_['column_sku']               		= 'Артикул';
 $_['column_amazon_sku']        		= 'Amazon SKU (Артикул)';
-$_['column_action']           		= 'Действие';
+$_['column_action']           		= 'Дія';

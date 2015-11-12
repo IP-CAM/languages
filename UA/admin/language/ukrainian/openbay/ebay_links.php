@@ -41,12 +41,12 @@ $_['text_filter_range_to']          = 'Максимум';
 $_['text_filter_var']             	= 'Включить варианты';
 
 // Tables
-$_['column_action']            		= 'Действие';
+$_['column_action']            		= 'Дія';
 $_['column_status']            		= 'Статус';
 $_['column_variants']          		= 'Варианты';
 $_['column_item_id']            	= 'eBay ID товара';
 $_['column_product']           		= 'Товар';
-$_['column_product_auto']      		= 'Название продукта (автоматическое заполнение)';
+$_['column_product_auto']      		= 'Назва продукта (автоматическое заполнение)';
 $_['column_listing_title']     		= 'eBay название списка';
 $_['column_allocated']         		= 'Выделенный сток';
 $_['column_ebay_stock']        		= 'eBay сток';

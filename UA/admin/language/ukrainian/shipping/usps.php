@@ -68,7 +68,7 @@ $_['entry_weight_class']    = 'Класс веса';
 $_['entry_tax']             = 'Налоговый класс';
 $_['entry_geo_zone']        = 'Регион';
 $_['entry_status']          = 'Статус';
-$_['entry_sort_order']      = 'Порядок сортировки';
+$_['entry_sort_order']      = 'Порядок сортування';
 $_['entry_debug']      		= 'Debug Mode';
 
 // Help

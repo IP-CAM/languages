@@ -1,4 +1,4 @@
 <?php
 // Text
-$_['text_title']       = 'Самовывоз';
-$_['text_description'] = 'Самовывоз';
+$_['text_title']       = 'Самовивіз';
+$_['text_description'] = 'Самовивіз з магазину';

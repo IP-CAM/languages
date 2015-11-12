@@ -10,7 +10,7 @@ $_['text_list']         	= 'Учитывать в заказе';
 $_['column_name']          	= 'Учитывать в заказе';
 $_['column_status']         = 'Статус';
 $_['column_sort_order']     = 'Сортировки';
-$_['column_action']         = 'Действие';
+$_['column_action']         = 'Дія';
 
 // Error
 $_['error_permission']      = 'У Вас нет прав для управления этим модулем!';

@@ -20,8 +20,8 @@ $_['text_img_upload']  		= 'Загрузка изображения';
 $_['text_img_upload_done']  = 'Загруженные изображения';
 
 // Entry
-$_['entry_title']      		= 'Название продукта';
-$_['entry_description']     = 'Описание';
+$_['entry_title']      		= 'Назва продукта';
+$_['entry_description']     = 'Опис';
 $_['entry_price']      		= 'Цена';
 $_['entry_non_taxable']     = 'Не облагается налогом';
 $_['entry_category']     	= 'Top category';

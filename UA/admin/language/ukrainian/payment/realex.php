@@ -50,7 +50,7 @@ $_['entry_merchant_id']				 = 'Merchant ID';
 $_['entry_secret']					 = 'Shared secret';
 $_['entry_rebate_password']			 = 'Rebate password';
 $_['entry_total']					 = 'Всего';
-$_['entry_sort_order']				 = 'Порядок сортировки';
+$_['entry_sort_order']				 = 'Порядок сортування';
 $_['entry_geo_zone']				 = 'Регион';
 $_['entry_status']					 = 'Состояние';
 $_['entry_debug']					 = 'Журнал отладки';
@@ -86,7 +86,7 @@ $_['tab_advanced']					 = 'Расширенный';
 
 // Button
 $_['button_capture']				 = 'Фиксация';
-$_['button_rebate']					 = 'Скидка / Возврат';
+$_['button_rebate']					 = 'Скидка / Повернення';
 $_['button_void']					 = 'Void';
 
 // Error

@@ -22,18 +22,18 @@ $_['text_time']          		= 'Время';
 
 // Column
 $_['column_name']          		= 'Опция';
-$_['column_sort_order']         = 'Порядок сортировки';
-$_['column_action']          	= 'Действие';
+$_['column_sort_order']         = 'Порядок сортування';
+$_['column_action']          	= 'Дія';
 
 // Entry
-$_['entry_name']          		= 'Название:';
+$_['entry_name']          		= 'Назва:';
 $_['entry_type']          		= 'Тип:';
 $_['entry_option_value']        = 'Значение:';
 $_['entry_image']          		= 'Изображение:';
-$_['entry_sort_order']          = 'Порядок сортировки:';
+$_['entry_sort_order']          = 'Порядок сортування:';
 
 // Error
-$_['error_permission']          = 'У Вас нет прав для изменения опций!';
+$_['error_permission']          = 'У Вас немає прав для зміни опций!';
 $_['error_name']          		= 'Имя опции должно быть от 1 до 128 символов!';
 $_['error_type']          		= 'Не указано значение опции!';
 $_['error_option_value']        = 'Значение опции должно быть от 1 до 128 символов!';

@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Бонусные баллы';
+$_['heading_title']    = 'Бонусні бали';
 
 // Text
 $_['text_total']       = 'Общая сумма заказа';
@@ -9,7 +9,7 @@ $_['text_edit']        = 'Редактирование модуля';
 
 // Entry
 $_['entry_status']     = 'Статус:';
-$_['entry_sort_order'] = 'Порядок сортировки:';
+$_['entry_sort_order'] = 'Порядок сортування:';
 
 // Error
 $_['error_permission'] = 'У Вас нет прав для управления бонусными баллами!';

@@ -9,3 +9,6 @@ image/data/
 image/cache/
 system/cache/
 system/logs/
+
+# IDE Project files
+/.idea

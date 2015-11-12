@@ -14,11 +14,11 @@ $_['text_germany']          = 'Германия';
 $_['text_netherlands']      = 'Нидерланды';
 
 // Entry
-$_['entry_total']      = 'Сумма заказа:';
+$_['entry_total']      = 'Сума заказа:';
 $_['entry_fee']        = 'Плата:';
 $_['entry_tax_class']  = 'Класс налога:';
 $_['entry_status']     = 'Статус:';
-$_['entry_sort_order'] = 'Порядок сортировки:';
+$_['entry_sort_order'] = 'Порядок сортування:';
 
 // Error
 $_['error_permission'] = 'У Вас нет прав для управления этим модулем!';

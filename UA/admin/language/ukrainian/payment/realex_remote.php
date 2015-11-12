@@ -41,16 +41,16 @@ $_['text_confirm_rebate']			= 'Are you sure you want to rebate the payment?';
 $_['text_realex_remote']			= '<a target="_BLANK" href="http://www.realexpayments.co.uk/partner-refer?id=opencart"><img src="view/image/payment/realex.png" alt="Realex" title="Realex" style="border: 1px solid #EEEEEE;" /></a>';
 
 // Column
-$_['text_column_amount']			= 'Сумма';
+$_['text_column_amount']			= 'Сума';
 $_['text_column_type']				= 'Тип';
-$_['text_column_date_added']		= 'Создан';
+$_['text_column_date_added']		= 'Створений';
 
 // Entry
 $_['entry_merchant_id']				= 'ID Продавца';
 $_['entry_secret']					= 'Shared secret';
 $_['entry_rebate_password']			= 'Rebate password';
 $_['entry_total']					= 'Итого';
-$_['entry_sort_order']				= 'Порядок сортировки';
+$_['entry_sort_order']				= 'Порядок сортування';
 $_['entry_geo_zone']				= 'Регион';
 $_['entry_status']					= 'Статус';
 $_['entry_debug']					= 'Debug logging';

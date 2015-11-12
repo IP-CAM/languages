@@ -22,14 +22,14 @@ $_['text_pixels']                   = 'Разрешение';
 $_['text_other']                    = 'Другие';
 
 //Profile names
-$_['text_profile']            		= 'Профиль';
-$_['text_profile_theme']            = 'Тема профиля';
-$_['text_profile_shipping']         = 'Доставка профиля';
-$_['text_profile_returns']          = 'Возвратить профиль';
+$_['text_profile']            		= 'Профіль';
+$_['text_profile_theme']            = 'Тема профіля';
+$_['text_profile_shipping']         = 'Доставка профіля';
+$_['text_profile_returns']          = 'Поверненняить профиль';
 $_['text_profile_generic']          = 'Создать профиль';
 
 //Text
-$_['text_title']                    = 'Название';
+$_['text_title']                    = 'Назва';
 $_['text_price']                    = 'Цена';
 $_['text_stock']                    = 'Акции';
 $_['text_search']                   = 'Поиск';
@@ -67,7 +67,7 @@ $_['text_identifier_not_required']  = 'Not required';
 //Errors
 $_['text_error_ship_profile']       = 'Вам необходимо иметь профиль доставки по умолчанию настройка';
 $_['text_error_generic_profile']    = 'Вам необходимо иметь общий профиль по умолчанию настройка';
-$_['text_error_return_profile']     = 'Вам необходимо вернуть настройки профиля по умолчанию';
+$_['text_error_return_profile']     = 'Вам необходимо вернуть настройки профіля по умолчанию';
 $_['text_error_theme_profile']      = 'Вам необходимо иметь профиль по умолчанию тема создана';
 $_['text_error_variants']           = 'Элементы с вариациями, не могут быть перечислены и были невыбранном';
 $_['text_error_stock']              = 'Некоторые элементы не имеют в наличии и были удалены';

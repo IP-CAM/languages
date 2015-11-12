@@ -1,17 +1,17 @@
 <?php
 // Text
-$_['text_information']  = 'Информация';
-$_['text_service']      = 'Служба поддержки';
-$_['text_extra']        = 'Дополнительно';
-$_['text_contact']      = 'Связаться с нами';
-$_['text_return']       = 'Возврат товара';
-$_['text_sitemap']      = 'Карта сайта';
-$_['text_manufacturer'] = 'Производители';
-$_['text_voucher']      = 'Подарочные сертификаты';
-$_['text_affiliate']    = 'Партнёры';
-$_['text_special']      = 'Товары со скидкой';
-$_['text_account']      = 'Личный Кабинет';
-$_['text_order']        = 'История заказов';
-$_['text_wishlist']     = 'Мои Закладки';
-$_['text_newsletter']   = 'Рассылка новостей';
+$_['text_information']  = 'Інформація';
+$_['text_service']      = 'Сервісні служби';
+$_['text_extra']        = 'Додатково';
+$_['text_contact']      = 'Контакти';
+$_['text_return']       = 'Повернення';
+$_['text_sitemap']      = 'Мапа сайту';
+$_['text_manufacturer'] = 'Бренди';
+$_['text_voucher']      = 'Подарункові сертифікати';
+$_['text_affiliate']    = 'Партнерська програма';
+$_['text_special']      = 'Спеціальні пропозиції';
+$_['text_account']      = 'Обліковий запис';
+$_['text_order']        = 'Історія замовлень';
+$_['text_wishlist']     = 'Список побажань';
+$_['text_newsletter']   = 'Розсилання новин';
 $_['text_powered']      = 'Работает на <a target="_blank" href="http://myopencart.com/">ocStore</a><br /> %s &copy; %s';

@@ -19,7 +19,7 @@ $_['entry_total']					= 'Всего';
 $_['entry_order_status']			= 'Статус заказа';
 $_['entry_geo_zone']				= 'Geo Zone';
 $_['entry_status']					= 'Статус';
-$_['entry_sort_order']				= 'Порядок сортировки';
+$_['entry_sort_order']				= 'Порядок сортування';
 
 // Help
 $_['help_password']					= 'Leave empty if you do not have "Digest Key Authentication" enabled on your account.';

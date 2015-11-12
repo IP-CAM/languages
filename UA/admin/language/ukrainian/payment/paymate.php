@@ -16,11 +16,11 @@ $_['entry_total']					= 'Итого';
 $_['entry_order_status']			= 'Статус заказа';
 $_['entry_geo_zone']				= 'Регион';
 $_['entry_status']					= 'Статус';
-$_['entry_sort_order']				= 'Порядок сортировки';
+$_['entry_sort_order']				= 'Порядок сортування';
 
 // Help
 $_['help_password']					= 'Just use some random password. This will be used to make sure the payment information is not interfered with after being sent to the payment gateway.';
-$_['help_total']					= 'Сумма заказа должна быть выше, прежде чем этот метод оплаты станет активным.';
+$_['help_total']					= 'Сума заказа должна быть выше, прежде чем этот метод оплаты станет активным.';
 
 // Error
 $_['error_permission']				= 'Внимание: Вы не имеете разрешения на изменение оплаты Paymate!';

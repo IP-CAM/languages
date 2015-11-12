@@ -15,7 +15,7 @@ $_['entry_total']					= 'Итого';
 $_['entry_order_status']			= 'Статус заказа';
 $_['entry_geo_zone']				= 'Регион';
 $_['entry_status']					= 'Статус';
-$_['entry_sort_order']				= 'Порядок сортировки';
+$_['entry_sort_order']				= 'Порядок сортування';
 
 // Help
 $_['help_test']						= 'Use this module in Test (YES) or Production mode (NO)?';

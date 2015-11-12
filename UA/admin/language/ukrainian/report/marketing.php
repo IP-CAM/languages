@@ -7,7 +7,7 @@ $_['text_list']         = 'Список по маркетингу';
 $_['text_all_status']   = 'Все статусы';
 
 // Column
-$_['column_campaign']  = 'Название компании';
+$_['column_campaign']  = 'Назва компании';
 $_['column_code']      = 'Код';
 $_['column_clicks']    = 'Кликов';
 $_['column_orders']    = 'Кол-во заказов';

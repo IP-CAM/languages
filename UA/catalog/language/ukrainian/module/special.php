@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title'] = 'Товары со скидкой';
+$_['heading_title'] = 'Спеціальні пропозиції';
 
 // Text
-$_['text_tax']      = 'Без налога:';
+$_['text_tax']      = 'Без ПДВ:';

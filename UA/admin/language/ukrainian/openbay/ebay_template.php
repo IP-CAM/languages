@@ -5,8 +5,8 @@ $_['text_ebay']                     = 'eBay';
 $_['text_openbay']                  = 'OpenBay Pro';
 
 // Columns
-$_['column_name']            		= 'Название шаблона';
-$_['column_action']            		= 'Действие';
+$_['column_name']            		= 'Назва шаблона';
+$_['column_action']            		= 'Дія';
 
 // Entry
 $_['entry_template_name']           = 'Наименование';

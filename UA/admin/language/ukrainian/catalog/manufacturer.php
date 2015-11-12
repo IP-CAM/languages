@@ -13,17 +13,17 @@ $_['text_amount']          		= 'Фиксированная сумма';
 
 // Column
 $_['column_name']          		= 'Имя Производителя';
-$_['column_sort_order']         = 'Порядок сортировки';
-$_['column_action']          	= 'Действие';
+$_['column_sort_order']         = 'Порядок сортування';
+$_['column_action']          	= 'Дія';
 
 // Entry
 $_['entry_name']          		= 'Имя Производителя';
 $_['entry_store']          		= 'Магазины:';
 $_['entry_keyword']          	= 'SEO URL:';
 $_['entry_image']          		= 'Изображение:';
-$_['entry_sort_order']          = 'Порядок сортировки:';
+$_['entry_sort_order']          = 'Порядок сортування:';
 $_['entry_type']          		= 'Тип:';
-$_['entry_description']         = 'Описание';
+$_['entry_description']         = 'Опис';
 $_['entry_meta_title']          = 'HTML-тег Title';
 $_['entry_meta_h1']          	= 'HTML-тег H1';
 $_['entry_meta_keyword']        = 'Мета-тег Keywords';
@@ -33,7 +33,7 @@ $_['entry_meta_description']    = 'Мета-тег Description';
 $_['help_keyword']          	= 'Замените пробелы на тире. Должно быть уникальным на всю систему.';
 
 // Error
-$_['error_permission']          = 'У Вас нет прав для изменения производителей!';
-$_['error_name']          		= 'Название производителя должно быть от 3 до 64 символов!';
+$_['error_permission']          = 'У Вас немає прав для зміни производителей!';
+$_['error_name']          		= 'Назва производителя должно быть от 3 до 64 символов!';
 $_['error_keyword']          	= 'Этот SEO keyword уже используется!';
 $_['error_product']          	= 'Этот производитель не может быть удален, поскольку в настоящее время он прикреплен к %s товару(ам)!';

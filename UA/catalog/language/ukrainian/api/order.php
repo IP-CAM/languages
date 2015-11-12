@@ -1,16 +1,16 @@
 <?php
 // Text
-$_['text_success']           = 'Заказ был успешно изменен';
+$_['text_success']           = 'Ваше замовлення успішно змінено';
 
 // Error
-$_['error_permission']       = 'Внимание: У Вас нет разрешения на доступ к API!';
-$_['error_customer']         = 'Необходимо задать сведения о клиенте !';
-$_['error_payment_address']  = 'Требуется адрес оплаты!';
-$_['error_payment_method']   = 'Требуется способ оплаты!';
+$_['error_permission']       = 'У Вас немає доступу до API!';
+$_['error_customer']         = 'Необхідно додати деталі покупця!';
+$_['error_payment_address']  = 'Необхідно додати адресу оплати!';
+$_['error_payment_method']   = 'Необхідно вказати метод оплати!';
 $_['error_no_payment']       = 'Warning: No Payment options are available!';
-$_['error_shipping_address'] = 'Требуется адрес доставки!';
-$_['error_shipping_method']  = 'Требуется способ доставки!';
+$_['error_shipping_address'] = 'Необхідно вказати адресу доставки!';
+$_['error_shipping_method']  = 'Необхідно вказати метод доставки!';
 $_['error_no_shipping']      = 'Warning: No Shipping options are available!';
-$_['error_stock']            = 'Товары, отмеченные *** не доступны в требуемом количестве или нет на складе!';
-$_['error_minimum']          = 'Минимальная сумма заказа для %s-%s!';
-$_['error_not_found']        = 'Внимание: Заказ не найден!';
+$_['error_stock']            = 'Товари позначені *** закінчилися, або залишок менший від замовлення!';
+$_['error_minimum']          = 'Мінімальна кількість замолвення для %s складає %s!';
+$_['error_not_found']        = 'Увага: такого замовлення немає!';

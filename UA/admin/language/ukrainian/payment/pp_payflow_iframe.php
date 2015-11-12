@@ -1,7 +1,7 @@
 <?php
 // Heading
 $_['heading_title']					= 'PayPal Payflow Pro iFrame';
-$_['heading_refund']				= 'Возврат средств';
+$_['heading_refund']				= 'Повернення средств';
 
 // Text
 $_['text_payment']					= 'Payment';

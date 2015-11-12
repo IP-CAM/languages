@@ -44,7 +44,7 @@ $_['entry_reversed_status']			= 'Reversed Status:';
 $_['entry_voided_status']			= 'Voided Status:';
 
 // Help
-$_['help_total']					= 'Сумма заказа должна быть больше, прежде чем этот метод оплаты станет активным.';
+$_['help_total']					= 'Сума заказа должна быть больше, прежде чем этот метод оплаты станет активным.';
 $_['help_debug']				 = 'Enabling debug will write sensitive data to a log file. You should always disable unless instructed otherwise';
 $_['help_secret_token']			 = 'Make this long and hard to guess';
 $_['help_webhook_url']			 = 'Set Worldpay webhooks to call this URL';

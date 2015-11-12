@@ -1,17 +1,16 @@
 <?php
 // Heading 
-$_['heading_title']   = 'Забыли пароль?';
+$_['heading_title']   = 'Забули пароль?';
 
 // Text
-$_['text_account']    = 'Кабинет Партнера';
-$_['text_forgotten']  = 'Забыли пароль?';
+$_['text_account']    = 'Обліковий запис';
+$_['text_forgotten']  = 'Забули пароль?';
 $_['text_your_email'] = 'Ваш E-Mail';
-$_['text_email']      = 'Введите адрес электронной почты от Вашей учетной записи. Нажмите кнопку Продолжить, чтобы получить пароль по электронной почте.';
-$_['text_success']    = 'Новый пароль был выслан на Ваш адрес электронной почты.';
+$_['text_email']      = 'Введіть e-mail який Ви вказували при реєстрації. Натисніть кнопку підтвердження і новий пароль прийде на Ваш e-mail.';
+$_['text_success']    = 'Новий пароль відправлено на Ваш e-mail.';
 
 // Entry
-$_['entry_email']     = 'E-Mail адрес:';
+$_['entry_email']     = 'E-Mail';
 
 // Error
-$_['error_email']     = 'Warning: The E-Mail Address was not found in our records, please try again!';
-$_['error_email']     = 'Такой E-Mail адрес не найден, попробуйте снова!';
+$_['error_email']     = 'E-Mail не знайдено в базі, спробуйте ще раз!';

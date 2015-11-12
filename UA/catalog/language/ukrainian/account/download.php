@@ -1,14 +1,14 @@
 <?php
 // Heading
-$_['heading_title']   = 'Файлы для скачивания';
+$_['heading_title']     = 'Завантаження облікового запису';
 
 // Text
-$_['text_account']    = 'Личный Кабинет';
-$_['text_downloads']  = 'Файлы для скачивания';
-$_['text_empty']        = 'У Вас не было заказов с файлами для скачивания!';
+$_['text_account']      = 'Обліковий запис';
+$_['text_downloads']    = 'Завантаження';
+$_['text_empty']        = 'У вас немає замовлень, які можна завантажити!';
 
 // Column
-$_['column_order_id']   = '№ заказа:';
-$_['column_name']       = 'Имя:';
-$_['column_size']       = 'Размер:';
-$_['column_date_added'] = 'Дата добавления:';
+$_['column_order_id']   = 'Номер замовлення';
+$_['column_name']       = 'Назва';
+$_['column_size']       = 'Розмір';
+$_['column_date_added'] = 'Дата додавання';

@@ -9,18 +9,18 @@ $_['text_add']          		= 'Добавление атрибута';
 $_['text_edit']          		= 'Редактирование атрибута';
 
 // Column
-$_['column_name']          		= 'Название';
-$_['column_attribute_group']    = 'Группа';
-$_['column_sort_order']         = 'Порядок сортировки';
-$_['column_action']          	= 'Действие';
+$_['column_name']          		= 'Назва';
+$_['column_attribute_group']    = 'Група';
+$_['column_sort_order']         = 'Порядок сортування';
+$_['column_action']          	= 'Дія';
 
 // Entry
-$_['entry_name']          		= 'Название:';
-$_['entry_attribute_group']     = 'Группа:';
-$_['entry_sort_order']          = 'Порядок сортировки:';
+$_['entry_name']          		= 'Назва:';
+$_['entry_attribute_group']     = 'Група:';
+$_['entry_sort_order']          = 'Порядок сортування:';
 
 // Error
-$_['error_permission']          = 'У Вас нет прав для изменения атрибутов!';
+$_['error_permission']          = 'У Вас немає прав для зміни атрибутов!';
 $_['error_attribute_group']     = 'Attribute Group Required!';
-$_['error_name']          		= 'Название атрибута должно быть от 3 до 64 символов!';
-$_['error_product']          	= 'Этот атрибут не может быть удален, так как назначен %s товарам!';
+$_['error_name']          		= 'Назва атрибута должно быть от 3 до 64 символов!';
+$_['error_product']          	= 'Этот атрибут не может быть удален,так як призначений %s товарам!';

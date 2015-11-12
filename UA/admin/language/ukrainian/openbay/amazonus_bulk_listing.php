@@ -26,7 +26,7 @@ $_['entry_condition_note'] 			= 'Заметка о состоянии';
 $_['entry_start_selling'] 			= 'Начать продажу';
 
 // Column
-$_['column_name'] 					= 'Название';
+$_['column_name'] 					= 'Назва';
 $_['column_image'] 					= 'Изображение';
 $_['column_model'] 					= 'Модель';
 $_['column_status'] 				= 'Статус';

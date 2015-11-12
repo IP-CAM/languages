@@ -1,15 +1,15 @@
 <?php
 // Heading
-$_['heading_title']    = 'Кабинета Партнера';
+$_['heading_title']    = 'Партнерська програма';
 
 // Text
-$_['text_register']    = 'Авторизация';
-$_['text_login']       = 'Регистрация';
-$_['text_logout']      = 'Выйти';
-$_['text_forgotten']   = 'Напомнить пароль';
-$_['text_account']     = 'Личный кабинет';
-$_['text_edit']        = 'Данные учетной записи';
-$_['text_password']    = 'Смена пароля';
-$_['text_payment']     = 'Способ оплаты';
-$_['text_tracking']    = 'Рефералы Партнера';
-$_['text_transaction'] = 'История выплат';
+$_['text_register']    = 'Реєстрація';
+$_['text_login']       = 'Вхід';
+$_['text_logout']      = 'Вихід';
+$_['text_forgotten']   = 'Забули пароль?';
+$_['text_account']     = 'Обліковий запис';
+$_['text_edit']        = 'Змінити обліковий запис';
+$_['text_password']    = 'Пароль';
+$_['text_payment']     = 'Варіанти оплати';
+$_['text_tracking']    = 'Відслідковування партнерської програми';
+$_['text_transaction'] = 'Оплати';

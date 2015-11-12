@@ -1,50 +1,50 @@
 <?php
 // Text
-$_['text_search']                             = 'Поиск';
-$_['text_brand']                              = 'Производитель';
-$_['text_manufacturer']                       = 'Производитель:';
-$_['text_model']                              = 'Код товара:';
-$_['text_reward']                             = 'Бонусные баллы:';
-$_['text_points']                             = 'Цена в Бонусных баллах:';
-$_['text_stock']                              = 'Доступность:';
-$_['text_instock']                            = 'На складе';
-$_['text_tax']                                = 'Без НДС:';
-$_['text_discount']                           = ' или более ';
-$_['text_option']                             = 'Доступные опции';
-$_['text_minimum']                            = 'Минимальное кол-во для заказа этого товара: %s. ';
-$_['text_reviews']                            = '%s отзывов';
-$_['text_write']                              = 'Написать отзыв';
-$_['text_login']                              = 'Пожалуйста <a href="%s"> авторизуйтесь</a> или <a href="%s"> зарегистрируйтесь</a> для просмотра';
-$_['text_no_reviews']                         = 'Нет отзывов об этом товаре.';
-$_['text_note']                               = '<span class="text-danger">Внимание:</span> HTML не переведен!';
-$_['text_success']                            = 'Спасибо за Ваш отзыв. Он был направлен на модерацию.';
-$_['text_related']                            = 'Рекомендуемые товары';
+$_['text_search']                             = 'Пошук';
+$_['text_brand']                              = 'Бренд';
+$_['text_manufacturer']                       = 'Виробник:';
+$_['text_model']                              = 'Артикул:';
+$_['text_reward']                             = 'Бонусні бали:';
+$_['text_points']                             = 'Ціна в бонусних балах:';
+$_['text_stock']                              = 'Наявність:';
+$_['text_instock']                            = 'В наявності';
+$_['text_tax']                                = 'Без ПДВ:';
+$_['text_discount']                           = ' чи більше ';
+$_['text_option']                             = 'Доступні опції';
+$_['text_minimum']                            = 'Мінімальне замовлення цього товару %s';
+$_['text_reviews']                            = '%s оглядів';
+$_['text_write']                              = 'Написати огляд';
+$_['text_login']                              = 'Будь-ласка <a  href="%s">ввійдіть</a> чи <a href="%s">зареєструйтеся</a> для написання огляду';
+$_['text_no_reviews']                         = 'В цього товару немає оглядів.';
+$_['text_note']                               = '<span class="text-danger">Зверніть увагу:</span> HTML не перекладено!';
+$_['text_success']                            = 'Дякуємо з Ваш огляд. Він направлений для затвердження модератору.';
+$_['text_related']                            = 'Схожі товари';
 $_['text_tags']                               = 'Теги:';
-$_['text_error']                              = 'Товар не найден!';
-$_['text_payment_recurring']                    = 'Платежные профили';
-$_['text_trial_description']                  = '%s каждый %d %sй для %d оплат(ы),';
-$_['text_payment_description']                = '%s каждый %d %s(-и) из %d платежей(-а)';
-$_['text_payment_cancel']                     = '%s every %d %s(s) until canceled';
+$_['text_error']                              = 'Товар не знайдено!';
+$_['text_payment_recurring']                    = 'Профілі оплати';
+$_['text_trial_description']                  = '%s кожен %d %s(s) до %d платежу(ів) тоді';
+$_['text_payment_description']                = '%s кожен %d %s(s) до %d патежу(ів)';
+$_['text_payment_until_canceled_description'] = '%s кожен %d %s(s) поки не скасовано';
 $_['text_day']                                = 'день';
-$_['text_week']                               = 'неделя';
-$_['text_semi_month']                         = 'полмесяца';
-$_['text_month']                              = 'месяц';
-$_['text_year']                               = 'год';
+$_['text_week']                               = 'тиждень';
+$_['text_semi_month']                         = 'половина місяця';
+$_['text_month']                              = 'місяць';
+$_['text_year']                               = 'рік';
 
 // Entry
-$_['entry_qty']                               = 'Кол-во';
-$_['entry_name']                              = 'Ваше имя:';
-$_['entry_review']                            = 'Ваш отзыв';
+$_['entry_qty']                               = 'Кількість';
+$_['entry_name']                              = 'Ваше Ім`я';
+$_['entry_review']                            = 'Ваш огляд';
 $_['entry_rating']                            = 'Рейтинг';
-$_['entry_good']                              = 'Хорошо';
-$_['entry_bad']                               = 'Плохо';
+$_['entry_good']                              = 'Хороший';
+$_['entry_bad']                               = 'Поганий';
 
 // Tabs
-$_['tab_description']                         = 'Описание';
-$_['tab_attribute']                           = 'Характеристики';
-$_['tab_review']                              = 'Отзывы (%s)';
+$_['tab_description']                         = 'Опис';
+$_['tab_attribute']                           = 'Специфікація';
+$_['tab_review']                              = 'Огляди (%s)';
 
 // Error
-$_['error_name']                              = 'Имя должно быть от 3 до 25 символов!';
-$_['error_text']                              = 'Текст Отзыва должен быть от 25 до 1000 символов!';
-$_['error_rating']                            = 'Пожалуйста поставьте оценку!';
+$_['error_name']                              = 'Назва огляду повинна містити від 3 до 25 символів!';
+$_['error_text']                              = 'Текст огляду повинен містити від 25 до 1000 символів!';
+$_['error_rating']                            = 'Оберіть ретинг огляду!';

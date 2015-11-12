@@ -1,29 +1,29 @@
 <?php
 // Text
-$_['text_title']				= 'Кредитная карта / Дебетовая карта (SagePay)';
-$_['text_credit_card']			= 'Данные карты';
-$_['text_card_type']			= 'Тип карты: ';
-$_['text_card_name']			= 'Название карты: ';
-$_['text_card_digits']			= 'Последние цифры: ';
-$_['text_card_expiry']			= 'Срок действия: ';
-$_['text_trial']				= '%s каждый %s %s из %s платежей тогда ';
-$_['text_recurring']			= '%s каждый %s %s';
-$_['text_length']				= ' для %s платежей';
+$_['text_title']				= 'Кредитна / Дебетна карта (SagePay)';
+$_['text_credit_card']			= 'Деталі карти';
+$_['text_card_type']			= 'тип карти: ';
+$_['text_card_name']			= 'Назва карти: ';
+$_['text_card_digits']			= 'Останні цифри: ';
+$_['text_card_expiry']			= 'Дійсна до: ';
+$_['text_trial']				= '%s кожні %s %s для %s оплат тоді ';
+$_['text_recurring']			= '%s кожні %s %s';
+$_['text_length']				= ' для %s оплат';
 
 // Entry
-$_['entry_card']				= 'Новая или существующая карта: ';
-$_['entry_card_existing']		= 'Существующая';
-$_['entry_card_new']			= 'Новая';
-$_['entry_card_save']			= 'Запомнить данные карты';
-$_['entry_cc_owner']			= 'Владелец карты';
-$_['entry_cc_type']				= 'Тип карты';
-$_['entry_cc_number']			= 'Номер карты';
-$_['entry_cc_start_date']		= 'Карта действует с даты';
-$_['entry_cc_expire_date']		= 'Срок действия карты';
-$_['entry_cc_cvv2']				= 'Код безопасности карты (CVV2)';
-$_['entry_cc_issue']			= 'Номер карты';
-$_['entry_cc_choice']			= 'Выбор существующей карты';
+$_['entry_card']				= 'Нова чи збережена карта: ';
+$_['entry_card_existing']		= 'Збережена';
+$_['entry_card_new']			= 'Нова';
+$_['entry_card_save']			= 'Зберегти деталі карти';
+$_['entry_cc_owner']			= 'Власник карти';
+$_['entry_cc_type']				= 'Тип карти';
+$_['entry_cc_number']			= 'Номер карти';
+$_['entry_cc_start_date']		= 'Карта діє з';
+$_['entry_cc_expire_date']		= 'Карта діє до';
+$_['entry_cc_cvv2']				= 'Код безпеки карти (CVV2)';
+$_['entry_cc_issue']			= 'Номер емітента карти';
+$_['entry_cc_choice']			= 'Виберіть існуючу карту';
 
 // Help
-$_['help_start_date']			= '(если имеется)';
-$_['help_issue']				= '(только для карт Maestro и Solo)';
+$_['help_start_date']			= '(якщо доступно)';
+$_['help_issue']				= '(тільки для Maestro і Solo карт)';

@@ -24,7 +24,7 @@ $_['text_order_ref']				= 'Ссылка на заказ';
 $_['text_order_total']				= 'Total authorised';
 $_['text_total_released']			= 'Total released';
 $_['text_transactions']				= 'Транзакции';
-$_['text_column_amount']			= 'Сумма';
+$_['text_column_amount']			= 'Сума';
 $_['text_column_type']				= 'Тип';
 $_['text_column_date_added']		= 'Дата добавления';
 $_['text_confirm_void']				= 'Вы уверены, что хотите аннулировать платеж?';
@@ -43,7 +43,7 @@ $_['entry_total']					= 'Итого';
 $_['entry_order_status']			= 'Статус заказа';
 $_['entry_geo_zone']				= 'Гео-зона';
 $_['entry_status']					= 'Статус';
-$_['entry_sort_order']				= 'Порядок сортировки';
+$_['entry_sort_order']				= 'Порядок сортування';
 $_['entry_debug']					= 'Журнал отладки';
 
 // Help
@@ -55,7 +55,7 @@ $_['help_cron_job_url']				= 'Set a cron job to call this URL';
 
 // Button
 $_['button_release']					= 'Релиз';
-$_['button_rebate']					= 'Скидка / Возврат';
+$_['button_rebate']					= 'Скидка / Повернення';
 $_['button_void']						= 'Void';
 
 // Error

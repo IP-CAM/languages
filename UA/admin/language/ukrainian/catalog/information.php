@@ -11,12 +11,12 @@ $_['text_default']          	= 'Основной магазин';
 
 // Column
 $_['column_title']          	= 'Заголовок Статьи';
-$_['column_sort_order']         = 'Порядок сортировки';
-$_['column_action']          	= 'Действие';
+$_['column_sort_order']         = 'Порядок сортування';
+$_['column_action']          	= 'Дія';
 
 // Entry
 $_['entry_title']          		= 'Заголовок статьи:';
-$_['entry_description']         = 'Описание:';
+$_['entry_description']         = 'Опис:';
 $_['entry_store']          		= 'Магазины:';
 $_['entry_meta_title']          = 'HTML-тег Title';
 $_['entry_meta_h1']             = 'HTML-тег H1';
@@ -25,7 +25,7 @@ $_['entry_meta_description']    = 'Мета-тег Description:';
 $_['entry_keyword']          	= 'SEO URL:';
 $_['entry_bottom']          	= 'Футер:';
 $_['entry_status']          	= 'Статус:';
-$_['entry_sort_order']          = 'Порядок сортировки:';
+$_['entry_sort_order']          = 'Порядок сортування:';
 $_['entry_layout']          	= 'Выберите схему:';
 
 // Help
@@ -34,9 +34,9 @@ $_['help_bottom']          		= 'Показать в футере';
 
 // Error
 $_['error_warning']          	= 'Внимательно проверьте форму на ошибки!';
-$_['error_permission']          = 'У Вас нет прав для изменения статей!';
+$_['error_permission']          = 'У Вас немає прав для зміни статей!';
 $_['error_title']          		= 'Заголовок статьи должно быть от 3 до 64 символов!';
-$_['error_description']         = 'Описание должно быть не менее 3 символов!';
+$_['error_description']         = 'Опис должно быть не менее 3 символов!';
 $_['error_meta_title']          = 'Мета-тег Title должен быть от 3 до 255 символов!';
 $_['error_keyword']          	= 'Этот SEO keyword уже используется!';
 $_['error_account']          	= 'Эту страницу нельзя удалить, поскольку она назначена Политикой безопасности по-умолчанию!';

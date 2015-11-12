@@ -1,29 +1,26 @@
 <?php
-$_['text_title'] = 'Кредитная или дебетовая карта';
-$_['text_card_details'] = 'Данные карты';
-$_['text_wait'] = 'Обработка платежа';
-$_['text_auth_code'] = 'Код авторизации: %s';
-$_['text_postcode_check'] = 'Проверить почтовый индекс: %s';
-$_['text_security_code_check'] = 'Проверки CVV2: %s';
-$_['text_address_check'] = 'Адрес регистрации: %s';
-$_['text_3d_secure_check'] = '3D Защита: %s';
-$_['text_not_given'] = 'Нет данных';
-$_['text_not_checked'] = 'Не установлен';
-$_['text_match'] = 'Соответствует';
-$_['text_not_match'] = 'Не соответствует';
-$_['text_authenticated'] = 'проверка подлинности выполнена';
-$_['text_not_authenticated'] = 'Проверка подлинности не выполнена';
-$_['text_authentication_not_completed'] = 'Отгруженно но не завершено';
-$_['text_unable_to_perform'] = 'Не удается выполнить';
-$_['text_transaction_declined'] = 'Ваш банк отклонил транзакцию. Пожалуйста, используйте другой способ оплаты.';
-$_['text_transaction_failed'] = 'Не удалось обработать платеж. Проверьте информацию, которую вы предоставили.';
-$_['text_connection_error'] = 'Пожалуйста, повторите попытку позже или использовать другой способ оплаты.';
-
-$_['entry_type'] = "Тип карты";
-$_['entry_number'] = "Номер карты";
-$_['entry_expire_date'] = "Дата окончания";
-$_['entry_cvv2'] = "Код безопасности (CVV2)";
-
-$_['button_confirm'] = 'Подтвердить';
-
-$_['error_failure'] = 'Не удалось завершить транзакцию. Пожалуйста, повторите попытку позже или используйте другой способ оплаты.';
+$_['text_title'] = 'Кредитна/Дебетна карта';
+$_['text_card_details'] = 'Деталі карти';
+$_['text_wait'] = 'Обробка Вашої оплати';
+$_['text_auth_code'] = 'Код авторизації: %s';
+$_['text_postcode_check'] = 'Перевірка індексу: %s';
+$_['text_security_code_check'] = 'Перевірка CVV2: %s';
+$_['text_address_check'] = 'Перевірка адреси: %s';
+$_['text_3d_secure_check'] = '3D Secure: %s';
+$_['text_not_given'] = 'Невідомо';
+$_['text_not_checked'] = 'не перевірено';
+$_['text_match'] = 'Співпадає';
+$_['text_not_match'] = 'Не співпадає';
+$_['text_authenticated'] = 'Підтверджені';
+$_['text_not_authenticated'] = 'Не підтверджені';
+$_['text_authentication_not_completed'] = 'Перевіка не завершена';
+$_['text_unable_to_perform'] = 'Не вдалося виконати';
+$_['text_transaction_declined'] = 'Ваш банк відхилив транзакцію. Будь-ласка, виберіть інший спосіб оплати.';
+$_['text_transaction_failed'] = 'Неможливо провести оплату. Будь-ласка, перевірте деталі оплати.';
+$_['text_connection_error'] = 'Будь-ласка, спробуйте пізніше або виберіть інший спосіб оплати.';
+$_['entry_type'] = "Тип карти";
+$_['entry_number'] = "Номер карти";
+$_['entry_expire_date'] = "Дійсна до";
+$_['entry_cvv2'] = "Код безпеки (CVV2)";
+$_['button_confirm'] = 'Підтверджено';
+$_['error_failure'] = 'Неможливо завершити транзакцію. Будь-ласка, спробуйте пізніше або використайте інший спосіб оплати.';

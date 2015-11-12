@@ -24,9 +24,9 @@ $_['text_es'] 						= 'Испания';
 // Column
 $_['column_asin'] 					= "ASIN";
 $_['column_price'] 					= "Цена";
-$_['column_name'] 					= "Название";
+$_['column_name'] 					= "Назва";
 $_['column_sku'] 					= "Артикул";
-$_['column_quantity'] 				= "Количество";
+$_['column_quantity'] 				= "Кількість";
 $_['column_combination'] 			= "Сочетание";
 
 // Error

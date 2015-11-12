@@ -1,24 +1,24 @@
 <?php
 // Heading
-$_['heading_title']       = 'Учетная запись';
+$_['heading_title']      = 'Обліковий запис';
 
 // Text
-$_['text_account']        = 'Личный Кабинет';
-$_['text_edit']           = 'Редактировать информацию';
-$_['text_your_details']   = 'Ваша учетная запись';
-$_['text_success']        = 'Ваша учетная запись была успешно обновлена!';
+$_['text_account']       = 'Обліковий запис';
+$_['text_edit']          = 'Змінити інформацію';
+$_['text_your_details']  = 'Ваші особисті дані';
+$_['text_success']       = 'Ви успішно змінили обліковий запис.';
 
 // Entry
-$_['entry_firstname']     = 'Имя';
-$_['entry_lastname']      = 'Фамилия';
-$_['entry_email']      	  = 'E-Mail';
-$_['entry_telephone']     = 'Телефон';
-$_['entry_fax']           = 'Факс';
+$_['entry_firstname']    = 'Ім`я';
+$_['entry_lastname']     = 'Прізвище';
+$_['entry_email']        = 'E-Mail';
+$_['entry_telephone']    = 'Телефон';
+$_['entry_fax']          = 'Факс';
 
 // Error
-$_['error_exists']        = 'Такой E-Mail уже зарегистрирован!';
-$_['error_firstname']     = 'Имя должно быть от 1 до 32 символов!';
-$_['error_lastname']      = 'Фамилия должна быть от 1 до 32 символов!';
-$_['error_email']         = 'E-Mail адрес введен неверно!';
-$_['error_telephone']     = 'Номер телефона должен быть от 3 до 32 символов!';
-$_['error_custom_field'] = '%s необходим!';
+$_['error_exists']       = 'Така E-Mail адреса вже зареєстрована!';
+$_['error_firstname']    = 'Ім`я повинно містити від 1 до 32 символів!';
+$_['error_lastname']     = 'Прізвище повинно містити від 1 до 32 символів!';
+$_['error_email']        = 'Неправильний E-Mail!';
+$_['error_telephone']    = 'Телефон повинен містити від 3 до 32 символів!';
+$_['error_custom_field'] = '%s необхідно!';

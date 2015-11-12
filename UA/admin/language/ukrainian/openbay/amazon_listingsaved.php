@@ -15,4 +15,4 @@ $_['column_name']              		= 'Имя';
 $_['column_model']             		= 'Модель';
 $_['column_sku']               		= 'Арти́кул';
 $_['column_amazon_sku']        		= 'Арти́кул Amazon';
-$_['column_action']           		= 'Действие';
+$_['column_action']           		= 'Дія';

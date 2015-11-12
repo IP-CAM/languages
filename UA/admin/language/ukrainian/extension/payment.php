@@ -10,7 +10,7 @@ $_['text_list']          	= 'Виды платежей';
 $_['column_name']          	= 'Способ оплаты';
 $_['column_status']         = 'Статус';
 $_['column_sort_order']     = 'Сортировки';
-$_['column_action']         = 'Действие';
+$_['column_action']         = 'Дія';
 
 // Error
 $_['error_permission']      = 'У Вас нет прав на изменение способов оплат!';

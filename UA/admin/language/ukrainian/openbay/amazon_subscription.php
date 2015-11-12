@@ -16,15 +16,15 @@ $_['text_change_merchantid']        	= 'Изменить';
 $_['text_allowed']                  	= 'Доступно';
 $_['text_not_allowed']              	= 'Недоступно';
 $_['text_price']              			= 'Цена';
-$_['text_name']              			= 'Название';
-$_['text_description']              	= 'Описание';
+$_['text_name']              			= 'Назва';
+$_['text_description']              	= 'Опис';
 $_['text_order_frequency']          	= 'Частота импорта заказов';
 $_['text_bulk_listing']             	= 'Основной список';
 $_['text_product_listings']         	= 'Предложения в месяц';
 
 // Columns
-$_['column_name']                     	= 'Название';
-$_['column_description']              	= 'Описание';
+$_['column_name']                     	= 'Назва';
+$_['column_description']              	= 'Опис';
 $_['column_order_frequency']          	= 'Частота импорта заказов';
 $_['column_bulk_listing']             	= 'Основной список';
 $_['column_product_listings']         	= 'Предложения в месяц';

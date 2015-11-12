@@ -44,7 +44,7 @@ $_['entry_notify_admin']             	= 'Уведомлять администр
 $_['entry_default_shipping']         	= 'Доставка по умолчанию';
 
 // Tabs
-$_['tab_settings']            			= 'Детали API';
+$_['tab_settings']            			= 'Деталі API';
 $_['tab_listing']                  		= 'Списки';
 $_['tab_orders']                   		= 'Заказы';
 

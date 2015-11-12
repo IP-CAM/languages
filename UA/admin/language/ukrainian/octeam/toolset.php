@@ -8,9 +8,9 @@ $_['text_uninstall']          = 'Удалить';
 $_['text_open']               = 'Открыть';
 
 // Column
-$_['column_name']             = 'Название Инструмента';
-$_['column_description']      = 'Описание Инструмента';
-$_['column_action']           = 'Действие';
+$_['column_name']             = 'Назва Инструмента';
+$_['column_description']      = 'Опис Инструмента';
+$_['column_action']           = 'Дія';
 
 // Error
 $_['error_permission']        = 'У Вас нет прав для управления Инструментами!';

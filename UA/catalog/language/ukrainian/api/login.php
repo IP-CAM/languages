@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_success'] = 'API сессия успешно запущена!';
+$_['text_success'] = 'API сесія успішно розпочата!';
 
 // Error
 $_['error_key']  = 'Warning: Incorrect API Key!';

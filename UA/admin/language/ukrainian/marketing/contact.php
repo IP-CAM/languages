@@ -18,7 +18,7 @@ $_['text_product']          		= 'Только купившим эти Товар
 // Entry
 $_['entry_store']          			= 'От кого';
 $_['entry_to']          			= 'Кому';
-$_['entry_customer_group']          = 'Группа покупателей';
+$_['entry_customer_group']          = 'Група покупателей';
 $_['entry_customer']          		= 'Покупатели';
 $_['entry_affiliate']          		= 'Партнеры';
 $_['entry_product']          		= 'Товары';

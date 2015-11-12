@@ -15,19 +15,19 @@ $_['text_remove_ban_ip']    = 'Разблокировать IP';
 // Column
 $_['column_name']           = 'Имя покупателя';
 $_['column_email']          = 'E-Mail';
-$_['column_customer_group'] = 'Группа покупателя';
+$_['column_customer_group'] = 'Група покупателя';
 $_['column_status']         = 'Статус';
 $_['column_date_added']     = 'Дата добавления';
 $_['column_comment']        = 'Комментарий';
 $_['column_description']    = 'Описания';
-$_['column_amount']         = 'Сумма';
-$_['column_points']         = 'Бонусные баллы';
+$_['column_amount']         = 'Сума';
+$_['column_points']         = 'Бонусні бали';
 $_['column_ip']             = 'IP';
 $_['column_total']          = 'Аккаунтов на этом IP';
-$_['column_action']         = 'Действие';
+$_['column_action']         = 'Дія';
 
 // Entry
-$_['entry_customer_group']  = 'Группа покупателя';
+$_['entry_customer_group']  = 'Група покупателя';
 $_['entry_firstname']       = 'Имя';
 $_['entry_lastname']        = 'Фамилия';
 $_['entry_email']           = 'E-Mail';
@@ -49,15 +49,15 @@ $_['entry_zone']            = 'Регион / Область';
 $_['entry_default']         = 'Адрес по умолчанию';
 $_['entry_comment']         = 'Комментарий';
 $_['entry_description']     = 'Описания';
-$_['entry_amount']          = 'Сумма';
-$_['entry_points']          = 'Бонусные баллы';
+$_['entry_amount']          = 'Сума';
+$_['entry_points']          = 'Бонусні бали';
 $_['entry_name']            = 'Имя покупателя';
 $_['entry_ip']              = 'IP';
 $_['entry_date_added']      = 'Дата добавления';
 
 // Help
 $_['help_safe']             = 'Включите, чтобы система по борьбе с мошенничеством - игнорировала этого покупателя.';
-$_['help_points']           = 'Используйте минус - чтобы удалить бонусные баллы';
+$_['help_points']           = 'Используйте минус - чтобы удалить бонусные бали';
 
 // Error
 $_['error_warning']         = 'Внимание: Проверьте форму на наличие ошибок!';

@@ -12,11 +12,11 @@ $_['text_edit']         = 'Редактирование пользователя
 $_['column_username']   = 'Логин';
 $_['column_status']     = 'Статус';
 $_['column_date_added'] = 'Дата добавления';
-$_['column_action']     = 'Действие';
+$_['column_action']     = 'Дія';
 
 // Entry
 $_['entry_username']   	= 'Логин';
-$_['entry_user_group'] 	= 'Группа пользователя';
+$_['entry_user_group'] 	= 'Група пользователя';
 $_['entry_password']   	= 'Пароль';
 $_['entry_confirm']    	= 'Подтвердить';
 $_['entry_firstname']  	= 'Имя';
